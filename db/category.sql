@@ -1,3 +1,4 @@
+INSERT INTO Category (name, parent) values
 ("Fiction", NULL),
 ("Biography", NULL),
 ("Business & Management", NULL),

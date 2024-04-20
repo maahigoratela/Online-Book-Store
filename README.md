@@ -11,6 +11,7 @@ Responsive layout for extra small, Large Medium devices and browsers(ofcourse)
 3. open cmd and go to root of the project
 4. execute "cd db"
 5. execute all queries from create_tables.sql
+5.1. populate data in all tables
 6. on cmd go to root of project 
 7. run command "python setup.py install"
 8. run command python server.py

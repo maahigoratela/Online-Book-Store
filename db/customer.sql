@@ -1,3 +1,11 @@
+INSERT INTO `bookstore`.`customer`
+(`Login_id`,
+`Name`,
+`Password`,
+`cc_no`,
+`Phone_num`,
+`address`)
+VALUES
 ('ruso61440','N. Caruso','614Bl','6144046721257440','Bloomfield, CT United States','86891563')
 ('oman2483','Wandrwoman','248319Ne','2483192448579420','New York','83078477')
 ('hris79','TChris','797T','7975291622534320','Tzer Island ','94466012')

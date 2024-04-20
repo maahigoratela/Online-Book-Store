@@ -34,7 +34,7 @@ INSERT INTO books (ISBN, Title, Authors, Publisher, Yop, Available_copies, Price
 ,('978-1400038805','The Closing of the Western Mind: The Rise of Faith and the Fall of Reason','Charles Freeman','Vintage', '2005-12-12', 4,13.32,'Paperback', 'Culture','Religion',10,'bookstore/static/assets/coverimages/45656.png')
 ,('978-0452789030','The Sign: The Shroud of Turin and the Secret of the Resurrection','Thomas de Wesselow','Plume','2012,10,16',4,12.00,'Hardcover','Christian','History',9,'bookstore/static/assets/coverimages/67878.png')
 ,('978-0465784725','The Magic of Math: Solving for x and Figuring Out Why','Arthur Benjamin','Basic Books','2015-12-12',2,14.84,'Hardcover','Mathematics','History',10,'bookstore/static/assets/coverimages/67878.png')
-,('978-1848160930','Time, Space, Stars & Man: The Story of the Big Bang','Michael M. Woolfson','World Scientific Publishing Company','2009-12-12',4,83.05,'Paperback','Cosmology','Science', 9,'bookstore/static/assets/coverimages/67878.png');ssss
+,('978-1848160930','Time, Space, Stars & Man: The Story of the Big Bang','Michael M. Woolfson','World Scientific Publishing Company','2009-12-12',4,83.05,'Paperback','Cosmology','Science', 9,'bookstore/static/assets/coverimages/67878.png');
 
 
 
